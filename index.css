@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    height: 100vh;
+    background-color: #FBA834;
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}
+
+.box {
+    width: 12vw;
+    height: 18vh;
+    margin: 2vh 0.5vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1vh;
+}
+
+img {
+    width: 8vw;
+    height: 14vh;
+}
+
+#winnerName {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
