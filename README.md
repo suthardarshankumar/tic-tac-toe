@@ -19,7 +19,7 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript for two 
 
 ## Preview
 
-![Tic Tac Toe Preview](https://suthardarshankumar.github.io/tic-tac-toe/)
+Tic Tac Toe Preview => https://suthardarshankumar.github.io/tic-tac-toe/
 
 ## Files Included
 
